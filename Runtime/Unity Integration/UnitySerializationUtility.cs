@@ -18,7 +18,7 @@
 
 //#define PREFAB_DEBUG
 
-namespace EasyToolKit.ThirdParty.OdinSerializer
+namespace EasyToolKit.OdinSerializer
 {
     using System.Globalization;
     using System;

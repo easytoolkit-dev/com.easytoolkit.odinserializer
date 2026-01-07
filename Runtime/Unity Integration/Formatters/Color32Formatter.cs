@@ -16,11 +16,11 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-using EasyToolKit.ThirdParty.OdinSerializer;
+using EasyToolKit.OdinSerializer;
 
 [assembly: RegisterFormatter(typeof(Color32Formatter))]
 
-namespace EasyToolKit.ThirdParty.OdinSerializer
+namespace EasyToolKit.OdinSerializer
 {
     using UnityEngine;
 

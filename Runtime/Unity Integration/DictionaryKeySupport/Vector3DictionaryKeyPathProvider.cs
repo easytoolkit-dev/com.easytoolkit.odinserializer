@@ -16,11 +16,11 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-using EasyToolKit.ThirdParty.OdinSerializer;
+using EasyToolKit.OdinSerializer;
 
 [assembly: RegisterDictionaryKeyPathProvider(typeof(Vector3DictionaryKeyPathProvider))]
 
-namespace EasyToolKit.ThirdParty.OdinSerializer
+namespace EasyToolKit.OdinSerializer
 {
     using System.Globalization;
     using UnityEngine;

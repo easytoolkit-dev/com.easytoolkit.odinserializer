@@ -16,7 +16,7 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace EasyToolKit.ThirdParty.OdinSerializer.Utilities
+namespace EasyToolKit.OdinSerializer.Utilities
 {
     /// <summary>
     /// Provides notification callbacks for values that are cached using the <see cref="Cache{T}"/> class.

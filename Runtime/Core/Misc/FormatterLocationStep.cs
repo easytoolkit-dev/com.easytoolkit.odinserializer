@@ -16,7 +16,7 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace EasyToolKit.ThirdParty.OdinSerializer
+namespace EasyToolKit.OdinSerializer
 {
     public enum FormatterLocationStep
     {

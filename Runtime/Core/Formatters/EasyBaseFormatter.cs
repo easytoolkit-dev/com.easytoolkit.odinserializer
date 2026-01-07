@@ -16,7 +16,7 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace EasyToolKit.ThirdParty.OdinSerializer
+namespace EasyToolKit.OdinSerializer
 {
     /// <summary>
     /// Provides an easy way of implementing custom formatters.

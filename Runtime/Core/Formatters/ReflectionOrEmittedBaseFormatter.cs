@@ -20,7 +20,7 @@
 #define CAN_EMIT
 #endif
 
-namespace EasyToolKit.ThirdParty.OdinSerializer
+namespace EasyToolKit.OdinSerializer
 {
     public abstract class ReflectionOrEmittedBaseFormatter<T> : ReflectionFormatter<T>
     {

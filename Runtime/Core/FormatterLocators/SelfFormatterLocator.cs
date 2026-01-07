@@ -16,11 +16,11 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-using EasyToolKit.ThirdParty.OdinSerializer;
+using EasyToolKit.OdinSerializer;
 
 [assembly: RegisterFormatterLocator(typeof(SelfFormatterLocator), -60)]
 
-namespace EasyToolKit.ThirdParty.OdinSerializer
+namespace EasyToolKit.OdinSerializer
 {
     using System;
     using Utilities;

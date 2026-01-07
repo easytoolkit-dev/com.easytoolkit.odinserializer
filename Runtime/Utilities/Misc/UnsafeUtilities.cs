@@ -15,7 +15,7 @@
 // limitations under the License.
 // </copyright>
 //-----------------------------------------------------------------------
-namespace EasyToolKit.ThirdParty.OdinSerializer.Utilities.Unsafe
+namespace EasyToolKit.OdinSerializer.Utilities.Unsafe
 {
     using System;
     using System.Runtime.InteropServices;

@@ -16,7 +16,7 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace EasyToolKit.ThirdParty.OdinSerializer
+namespace EasyToolKit.OdinSerializer
 {
     /// <summary>
     /// Indicates that an Odin-serialized Unity object controls its own serialization format. Every time it is serialized, it will be asked which format to use.

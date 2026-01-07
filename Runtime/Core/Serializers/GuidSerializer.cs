@@ -18,7 +18,7 @@
 
 using System.Globalization;
 
-namespace EasyToolKit.ThirdParty.OdinSerializer
+namespace EasyToolKit.OdinSerializer
 {
     using System;
 

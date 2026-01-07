@@ -1,4 +1,4 @@
-﻿namespace EasyToolKit.ThirdParty.OdinSerializer
+﻿namespace EasyToolKit.OdinSerializer
 {
     /// <summary>
     /// The policy for handling errors during serialization and deserialization.

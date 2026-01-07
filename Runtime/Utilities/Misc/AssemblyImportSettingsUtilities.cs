@@ -18,7 +18,7 @@
 
 #if UNITY_EDITOR
 
-namespace EasyToolKit.ThirdParty.OdinSerializer.Utilities.Editor
+namespace EasyToolKit.OdinSerializer.Utilities.Editor
 {
     using System;
     using System.IO;

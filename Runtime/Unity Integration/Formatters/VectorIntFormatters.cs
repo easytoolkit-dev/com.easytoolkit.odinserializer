@@ -16,12 +16,12 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-using EasyToolKit.ThirdParty.OdinSerializer;
+using EasyToolKit.OdinSerializer;
 
 [assembly: RegisterFormatter(typeof(Vector2IntFormatter))]
 [assembly: RegisterFormatter(typeof(Vector3IntFormatter))]
 
-namespace EasyToolKit.ThirdParty.OdinSerializer
+namespace EasyToolKit.OdinSerializer
 {
     using UnityEngine;
 

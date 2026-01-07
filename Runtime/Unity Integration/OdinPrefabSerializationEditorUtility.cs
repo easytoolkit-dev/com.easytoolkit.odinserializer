@@ -18,7 +18,7 @@
 
 //#define PREFAB_DEBUG
 #if UNITY_EDITOR
-namespace EasyToolKit.ThirdParty.OdinSerializer
+namespace EasyToolKit.OdinSerializer
 {
     using System;
     using System.Reflection;

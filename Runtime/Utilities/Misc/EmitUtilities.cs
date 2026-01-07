@@ -24,7 +24,7 @@
 #define CAN_EMIT
 #endif
 
-namespace EasyToolKit.ThirdParty.OdinSerializer.Utilities
+namespace EasyToolKit.OdinSerializer.Utilities
 {
     using System;
     using System.Reflection;

@@ -16,7 +16,7 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace EasyToolKit.ThirdParty.OdinSerializer.Utilities
+namespace EasyToolKit.OdinSerializer.Utilities
 {
     using System;
     using System.Collections.Generic;

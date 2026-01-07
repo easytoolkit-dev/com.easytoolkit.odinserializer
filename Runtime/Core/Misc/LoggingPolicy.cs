@@ -1,4 +1,4 @@
-﻿namespace EasyToolKit.ThirdParty.OdinSerializer
+﻿namespace EasyToolKit.OdinSerializer
 {
     /// <summary>
     /// The policy for which level of logging to do during serialization and deserialization.
